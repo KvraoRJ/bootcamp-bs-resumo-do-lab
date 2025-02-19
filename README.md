@@ -15,3 +15,7 @@ As maquinas virtuais são criadas em máquinas reais, e podem ter capacidades va
 . PaaS (Plataforma como Serviço): Oferece ferramentas para desenvolver e gerenciar aplicativos.
 
 . SaaS (Software como Serviço): Entrega aplicativos prontos para uso, como o Gmail ou o Office 365.
+
+## Componentes de Arquitetura
+
+A Cloud é composta de regiões, cada região tem pelo menos 3 zonas de disponibilidade e esta é composta por datacenters ligados por redes de baixa latencia
