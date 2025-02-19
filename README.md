@@ -10,3 +10,6 @@ A computação em nuvem é basicamente usar a internet para acessar serviços co
 As vantagens da nuvem incluem ser fácil de escalar, flexível, mais barato e acessível de qualquer lugar.
 
 A principal diferença é que CAPEX envolve investimentos em ativos que têm um impacto de longo prazo, enquanto OPEX é sobre os custos operacionais diários necessários para manter a empresa funcionando.
+
+## Máquinas virtuais
+As maquinas virtuais são criadas em máquinas reais, e podem ter capacidades variadas dependendo da demanda do momento e essa pode aumentar ou diminuir sua capacidade conforme a necessidade. Ela pode ser disponibilizada em minutos, dando agilidade para a empresa e gerando menos custos.
