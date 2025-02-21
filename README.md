@@ -27,3 +27,7 @@ Tipos de containers, instancias, maquinas virtuais, funções.
 Opções de hospedagem de aplicativos, aplicativos web do azure.
 
 redes privaadas, sub-redes DNS
+
+## IAM
+
+Serviços de Identificação e autenticação, Diretõrios e modelos de segurança
