@@ -19,3 +19,11 @@ As maquinas virtuais são criadas em máquinas reais, e podem ter capacidades va
 ## Componentes de Arquitetura
 
 A Cloud é composta de regiões, cada região tem pelo menos 3 zonas de disponibilidade e esta é composta por datacenters ligados por redes de baixa latencia
+
+## Computação e redes
+
+Tipos de containers, instancias, maquinas virtuais, funções. 
+
+Opções de hospedagem de aplicativos, aplicativos web do azure.
+
+redes privaadas, sub-redes DNS
